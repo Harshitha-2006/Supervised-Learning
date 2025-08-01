@@ -1,0 +1,9 @@
+Contains_Free,Contains_Win,Email_Length_gt_100,Spam
+1,0,0,Spam
+0,1,1,Spam
+0,0,0,Not Spam
+1,1,1,Spam
+0,0,1,Not Spam
+1,0,1,Spam
+0,1,0,Spam
+0,0,1,Not Spam
