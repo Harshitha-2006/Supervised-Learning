@@ -1,4 +1,4 @@
-LOGISTIC REGRESSION - STUDY PASS PREDICTION
+LOGISTIC REGRESSION - STUDY PASS PREDICTION (BINARY CLASSIFICATION)
 📁 Dataset
 The dataset (study_data.csv) contains two columns:
 hrs - Number of hours studied (independent variable)
