@@ -2,10 +2,10 @@
 
 📁 Dataset
 The dataset is the built-in Iris dataset from scikit-learn and contains the following columns:
-sepal length (cm)	Length of sepal in centimeters
-sepal width (cm)	Width of sepal in centimeters
-petal length (cm)	Length of petal in centimeters
-petal width (cm)	Width of petal in centimeters
+sepal length-Length of sepal in centimeters
+sepal width -Width of sepal in centimeters
+petal length-Length of petal in centimeters
+petal width -Width of petal in centimeters
 target	Flower species as numeric values:
 0 - Setosa
 1 - Versicolor
