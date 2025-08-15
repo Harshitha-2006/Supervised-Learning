@@ -1,5 +1,4 @@
 Gradient Descent Implementation
-This project demonstrates gradient descent.  
 It predicts a linear relationship between input(x) and output(y) without using machine learning libraries.
 
 Example dataset:
